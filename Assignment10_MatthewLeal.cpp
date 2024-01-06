@@ -7,7 +7,7 @@ Due Date:  04/20/2022           Due Time: 11:59 PM
 Total Points: 20
 Assignment #: amazon_porders10.cpp
 
-Description: Yo
+Description: Similar to Assignment 9 except the remove and print functions are handled by operators
 
 *************************************************************************************************************************/
 
@@ -285,7 +285,7 @@ int main()
 	cout << "End of Test 1" << endl;
 	cout << "**********************************************************************\n";
 	cout << "**********************************************************************\n";
-	/*Test 2:
+	//Test 2:
 	//void add();
 	cout << "Test 2: Testing add, double_size, process, is_full, and print " << endl;
 	myOrders.add( );
@@ -310,6 +310,6 @@ int main()
 	cout << "Test 4: Destructor called" << endl;
 	cout << "End of Test 4" << endl;
 	cout << "**********************************************************************\n";
-	cout << "**********************************************************************\n";*/
+	cout << "**********************************************************************\n";
 	return 0;
 }

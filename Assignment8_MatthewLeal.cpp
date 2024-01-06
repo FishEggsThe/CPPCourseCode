@@ -7,7 +7,7 @@ Due Date:  04/05/2050           Due Time: 11:59 PM
 Total Points: 10
 Assignment #: amazon_porders8.cpp
 
-Description:
+Description: Program for testing various functions, including those checking list size, increasing list size, adding removing or searching for elements, processing relevant data and initializing and deleting an ifstream variable, also outputs results in a text file
 
 *************************************************************************************************************************/
 
@@ -283,7 +283,7 @@ int main()
 	////Test 2:
 	////void add(order_record * & INV, int & count, int & size);
 	cout << "Test 2: Testing add, double_size, process, is_full, and print " << endl;
-	//add(INV, count, size);
+	add(INV, count, size);
 	print(INV, count);
 	cout << "End of Test 2" << endl;
 	cout << "**********************************************************************\n";

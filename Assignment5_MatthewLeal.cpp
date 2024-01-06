@@ -7,7 +7,7 @@ Due Date: 2/23/2022             Due Time: 11:59pm
 Total Points: 10
 Assignment #: amazon_porders.cpp
 
-Description: Jeff Bezos 3: The Reckoning
+Description: Program that takes in a text file, processes costs and taxes and prints the text file info and extra it processes into an output text file
 
 *************************************************************************************************************************/
 

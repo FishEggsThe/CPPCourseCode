@@ -11,7 +11,7 @@ Due Date:  04/13/2022           Due Time: 11:59 PM
 Total Points: 20
 Assignment #: amazon_porders9.cpp
 
-Description: Again
+Description: Same as Assignment 8 except using a constructor and direct input from the user
 
 *************************************************************************************************************************/
 

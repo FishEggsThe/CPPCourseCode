@@ -13,7 +13,7 @@ Due Date: 2/8/2022             Due Time: 11:59pm
 Total Points: 20
 Assignment #: amazon_purchase_recs.cpp
 
-Description: Jeff Bezos 2: Reborn
+Description: This program takes in a text file and outputs the data with specific costs and taxes
 
 *************************************************************************************************************************/
 

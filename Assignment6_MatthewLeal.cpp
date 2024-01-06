@@ -7,7 +7,7 @@ Due Date: 3/18/2022             Due Time: 11:59pm
 Total Points: 20
 Assignment #: semi_statistics.cpp
 
-Description: It calculates numbers for something
+Description: Program that gets the numbers from each line in a text file, calculates their average, and outputs the numbers with their average to a new text file 
 
 *************************************************************************************************************************/
 

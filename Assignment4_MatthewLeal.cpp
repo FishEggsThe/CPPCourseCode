@@ -6,7 +6,7 @@ Due Date: 2/16/2022            Due Time: 11:59pm
 Total Points: 20
 Assignment #: denominations.cpp
 
-Description: Dinero
+Description: A simple program that estimates the kinds of coins you have based on how many cents you input
 */
 
 #include <iostream>

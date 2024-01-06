@@ -7,7 +7,7 @@ Course:             C0P3014
 Assignment:         Assignment 1
 Professor:          Dr. Lofton Bullard
 
-Description: It does stuff
+Description: This program is for getting a few variables from the user in order to calculate costs.
 
 *************************************************************/
 #include <iostream> //standard library for i/o

@@ -7,7 +7,7 @@ Due Date:  04/25/2022           Due Time: 11:59 PM
 Total Points: 20
 Assignment #: amazon_porders11.cpp
 
-Description: Swag
+Description: Similar to Assignment 10 but now with a copy constructor
 
 *************************************************************************************************************************/
 
